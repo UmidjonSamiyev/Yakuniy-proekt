@@ -1,0 +1,260 @@
+body{
+    background-image: url("../NYC-BW-Manhattan-Bridge-Brooklyn-2(pp_w768_h1150).jpg");
+}
+.all{
+
+}
+.head1{
+    background-color: white;
+    border: 3px solid black;
+    height: 40px;
+    text-align: center;
+    margin-left: 400px;
+    width: 1200px;
+
+}
+.head12{
+    margin-top: 2px;
+    font-size: 30px;
+    font-family: "Calisto MT";
+}
+.menu{
+    background-color: white;
+    border: 3px solid black;
+    height: 35px;
+    text-align: center;
+    margin-top: 10px;
+    width: 1480px;
+    margin-left: 250px;
+}
+.f112 {
+    text-decoration: none;
+    margin-top: 2px;
+    font-size: 30px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: px;
+    border: 3px solid black;
+    width: 40px;
+    color: black;
+
+}
+.f113 {
+    text-decoration: none;
+    margin-top: 2px;
+    font-size: 30px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 200px;
+    border: 3px solid black;
+    width: 40px;
+    color: black;
+}
+.f114 {
+    text-decoration: none;
+    margin-top: 2px;
+    font-size: 30px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 200px;
+    border: 3px solid black;
+    width: 40px;
+    color: black;
+}
+.f115 {
+    text-decoration: none;
+    margin-top: 2px;
+    font-size: 30px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 200px;
+    border: 3px solid black;
+    width: 40px;
+    color: black;
+}
+.f111 {
+    text-decoration: none;
+    margin-top: 30px;
+    font-size: 40px;
+    font-family: "Copperplate Gothic Light";
+    text-align: center;
+    color: black;
+    border: 2px solid black;
+    width: 1000px;
+    margin-left: 500px;
+    background-color: white;
+}
+.f333{
+    background-color: white;
+    border: 3px solid black;
+    height: 600px;
+    text-align: center;
+    margin-top: 30px;
+    width: 1500px;
+    margin-left: 240px;
+}
+.img1{
+    margin-left: -700px;
+    margin-top: 30px;
+}
+.supra {
+    text-decoration: none;
+    font-size:35px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: -450px;
+    color: black;
+}
+.supra1 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.supra2 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.supra3 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.supra4 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.btn1{
+    border: 2px solid black;
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.ahref1{
+    text-decoration: none;
+    color: black;
+
+}
+.f3334{
+    background-color: white;
+    border: 3px solid black;
+    height: 600px;
+    text-align: center;
+    margin-top: 30px;
+    width: 1500px;
+    margin-left: 240px;
+}
+.gtr1 {
+    text-decoration: none;
+    font-size:35px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: -330px;
+    color: black;
+}
+.gtr2 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.gtr3 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.gtr4 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.gtr5 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.f33345{
+    background-color: white;
+    border: 3px solid black;
+    height: 600px;
+    text-align: center;
+    margin-top: 30px;
+    width: 1500px;
+    margin-left: 240px;
+}
+.lada1 {
+    text-decoration: none;
+    font-size:35px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: -440px;
+    color: black;
+}
+.lada2 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.lada3 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.lada4 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.lada5 {
+    text-decoration: none;
+    font-size:25px;
+    font-family: "Copperplate Gothic Light";
+    margin-left: 900px;
+    margin-top: px;
+    color: black;
+}
+.f333455{
+    background-color: white;
+    border: 3px solid black;
+    height: 600px;
+    text-align: center;
+    margin-top: 30px;
+    width: 1500px;
+    margin-left: 240px;
+}
+
